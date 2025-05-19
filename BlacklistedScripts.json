@@ -4,6 +4,6 @@
   "123255432303221": "This script is blacklisted for loading an external executor with extremely abusive scripts.\n-- GITHUB RESPONSE --",
   "12102103065": "This script is blacklisted for abusive and game changing behaviour.\n-- GITHUB RESPONSE --",
   "18665717275": "This script is blacklisted since it has a backdoor, please be safe when exeucting scripts.\n-- GITHUB RESPONSE --",
-  "0x": "Hex encoded scripts are blacklisted since it restricts us from reading code. Please refrain from using hex in your scripts.\n-- GITHUB RESPONSE--",
+  "0x": "Encoded scripts are blacklisted since it makes it harder for us to moderate your code. Please refrain from using encoded scripts.\n-- GITHUB RESPONSE--",
   "0b": "Encoded scripts are blacklisted since it makes it harder for us to moderate your code. Please refrain from using encoded scripts.\n-- GITHUB RESPONSE--",
 }
